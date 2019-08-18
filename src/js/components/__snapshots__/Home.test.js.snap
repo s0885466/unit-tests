@@ -1,0 +1,39 @@
+exports[`>>>H O M E --- Snapshot +++capturing Snapshot of Home 1`] = `
+<div
+  className="container">
+  <h2>
+    Калькулятор с react и redux
+  </h2>
+  <input
+    onChange={[Function]}
+    placeholder="Первое число"
+    type="text" />
+  <input
+    onChange={[Function]}
+    placeholder="Второе число"
+    type="text" />
+  <div>
+    Результаты : 
+    <span
+      id="output">
+      10
+    </span>
+  </div>
+  <button
+    id="add"
+    onClick={[Function]}>
+    Сложить
+  </button>
+  <button
+    id="subtract"
+    onClick={[Function]}>
+    Вычесть
+  </button>
+  <button
+    id="async_add"
+    onClick={[Function]}>
+    Сложить асинхронно
+  </button>
+  <hr />
+</div>
+`;
